@@ -19,4 +19,4 @@
  <hr>
  str의 값출력=<%=str%>	
 </body>
-</html>
+</html> 
