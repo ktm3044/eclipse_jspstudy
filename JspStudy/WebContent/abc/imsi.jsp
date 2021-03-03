@@ -26,6 +26,7 @@
 int count=3;
 %>
 <p>
-스크립트  밖에서 출력 count의 값은?<%=count%>
+스크립트 밖에서 출력 count의 값은?<%=count%><br>
+수식계산:<%=(3+5)%>
 </body>
 </html>
