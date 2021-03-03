@@ -12,6 +12,7 @@
 	//변수선언,제어문을 이요한 자바코드를 대부분 작성한다.
 	String str="홍길동";
 	//System.out.println("str="+str);//디버깅 할 떄 사용하는 방법
+	System.out.println("str="+str);
 	out.println("<h1>"+"str="+str+"</h1>");//웹에 출력 document.write("str="+str);(자바스크립트로 웹에 출력)
 	%>
 	<%=str%>
